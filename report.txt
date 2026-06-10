@@ -1,0 +1,4 @@
+Hotel Report
+Total Rooms: 50
+Available Rooms: 30
+Total Revenue: $1000000
